@@ -1,7 +1,7 @@
 Tony Armal – Computer Science Portfolio
 Overview
 
-This repository contains my personal computer science portfolio website developed as part of my university coursework. The portfolio showcases my academic background, technical skills, projects, experience, and curriculum vitae.
+This repository contains my personal computer science portfolio website developed as part of my university coursework. The portfolio showcases my academic background, technical skills, projects, experience, report and CV.
 
 The website is hosted using GitHub Pages and serves as an online portfolio for potential employers and collaborators.
 
