@@ -1,4 +1,4 @@
-Tony Armal – Computer Science Portfolio
+Tony Armal (Gh1049917) – Computer Science Lab Portfolio
 Overview
 
 This repository contains my personal computer science portfolio website developed as part of my university coursework. The portfolio showcases my academic background, technical skills, projects, experience, report and CV.
@@ -26,9 +26,7 @@ Project showcase
 Downloadable LATEX CV in PDF format
 Contact information for networking and professional communication
 Technologies Used
-Front-End
 HTML
-CSS
 Visual Studio Code
 GitHub
 LaTeX (for CV and project report)
@@ -43,23 +41,16 @@ Tony-Armal.github.io/
 ├── cv/
 │   ├── CV.tex
 │   └── CV.pdf
-│
+│ report.tex
+| Cs Lab Report (SS0326) Tony Armal
 └── README.md
 Design Decisions
 
 The website follows a clean and minimalist design to ensure readability and ease of navigation. A simple navigation menu allows visitors to quickly access different sections of the portfolio. The layout is responsive, making it accessible on desktop and mobile devices.
 
+As the Cv and report are created by Latex and report explains everything inside it.
 
-Planned enhancements include:
-
-Adding more software development projects
-Creating a project filtering system
-Implementing dark mode
-Adding a contact form
-Including project screenshots and demonstrations
-Expanding the portfolio with additional technical coursework
-Author
-
+Author: 
 Tony Gamiel Naim Kaliny Armal
 
 B.Sc. Software Engineering Student
